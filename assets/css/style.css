@@ -1288,3 +1288,25 @@ h3 > a { color: inherit; }
    .product- {
     width: 200px;
    }
+
+
+  /**
+   * --------------order page----------------
+   */
+
+
+
+   #social {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   }
+
+   .social-photo {
+    width: 350px;
+    border-radius: 50px;
+    margin: 20px;
+   }
+   
