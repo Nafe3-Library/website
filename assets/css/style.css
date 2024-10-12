@@ -1309,4 +1309,12 @@ h3 > a { color: inherit; }
     border-radius: 50px;
     margin: 20px;
    }
-   
+
+
+   .contact-name {
+    font-size: 30pt;
+    margin : auto;
+    text-decoration: none;
+    color: rgb(138, 88, 52);
+    width: fit-content;
+   }   
